@@ -28,19 +28,13 @@ logo: "assets/images/imper_imper.png"
 subtitle: "T: (+34) 722 00 00 00"
 email: inper@inper.es
 description: En Mallorca, te ofrecemos las mejores soluciones con un servicio serio, competente y de elevada calidad.
-url: "https://imper.es"
 #twitter_username: username
-#github_username: username
-minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-
+github_username: username
+minimal_mistakes_skin: "dark" 
 search: true
 search_full_content: true
 
-# Build settings
-markdown: kramdown
-#remote_theme: mmistakes/minimal-mistakes
-theme: minimal-mistakes-jekyll
-locale: es-ES
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
