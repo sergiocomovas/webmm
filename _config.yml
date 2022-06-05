@@ -30,7 +30,7 @@ email: inper@inper.es
 description: En Mallorca, te ofrecemos las mejores soluciones con un servicio serio, competente y de elevada calidad.
 #twitter_username: username
 github_username: username
-minimal_mistakes_skin: "dark" 
+#minimal_mistakes_skin: "dark" 
 search: true
 search_full_content: true
 
